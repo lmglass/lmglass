@@ -1,14 +1,17 @@
 ### Hola 👋 mi nombre es Lucas Glass
 
-## Quien Soy?
-Soy un Programador Full Stack recien graduado de Henry.
+## Quién Soy?
+Soy un Programador Full Stack recién graduado de Henry.
 
-Antes de comenzar a estudiar Full Stack Developer me ecnotraba cursanod el ultimo año de Ingeniería Industrial y opte por un cambio ya que me atraia mucho el mundo de la tecnologia. 
+Antes de comenzar a estudiar Full Stack Developer me ecnotraba cursando el ultimo año de Ingeniería Industrial y opte por un cambio ya que me atraía mucho el mundo de la tecnología. 
 
-## Que hago?
-Actualment estoy en busqueda de mi primer empelo dedicado a la programacion. Abierto a nuevos desafios y ansioso por comensar mi carrera profesional como desarrolador web.
+## Qué hago?
+Actualmente estoy en busqueda de mi primer trabajo dedicado a la programación. 
 
-## Que tecnologias uso?
+## A donde me dirijo?
+Estoy abierto a nuevos desafios y ansioso por comensar mi carrera profesional como desarrolador web.
+
+## Qué tecnologias uso?
 
 - Javascript
 - React.js
