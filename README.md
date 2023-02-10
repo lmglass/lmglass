@@ -29,6 +29,7 @@ Estoy abierto a nuevos desafios y ansioso por comensar mi carrera profesional co
 ## Contacto
 
 Linkedin: www.linkedin.com/in/lucasglass
+
 Correo: glasslucasm@gmail.com
 
 
