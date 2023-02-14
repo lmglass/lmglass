@@ -6,7 +6,7 @@ Antes de comenzar a estudiar Full Stack Developer me encontraba cursando el últ
 ## Qué hago?
 Actualmente estoy en búsqueda de mi primer trabajo dedicado a la programación. 
 
-## A donde me dirijo?
+## Qué busco?
 Estoy abierto a nuevos desafíos y ansioso por comenzar mi carrera profesional como desarrolador web.
 
 ## Qué tecnologías uso?
