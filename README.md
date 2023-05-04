@@ -1,4 +1,4 @@
-### Hola 👋 Soy Lucas Glass, un Full Stack Developer recién graduado de Henry. 
+### Hola 👋 Soy Lucas Glass, un Full Stack Developer graduado de Henry. 
 Me considero una persona proactiva, orientado a resultados, con buena atención al detalle. Me motiva trabajar en equipo y me gusta aprender todos los días, busco desarrollarme en este campo para crecer profesionalment
 
 Antes de comenzar a estudiar Full Stack Developer me encontraba cursando el último año de Ingeniería Industrial, opte por un cambio ya que me atraía mucho el mundo de la tecnología.
